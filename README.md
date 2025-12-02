@@ -1,4 +1,4 @@
-<h1 align="center"> ❤️ Anna Eliza </h1>
+<h1 align="center">  Anna Eliza </h1>
 
 ---
 
@@ -20,8 +20,8 @@
 ## 🌹 Sobre mim:
 
 - 💬 Vamos conversar? Me chama no  
-  👉 <a href="SEU_LINKEDIN_AQUI" target="_blank">LinkedIn</a>  
-  ou manda um oi por email: **SEU_EMAIL_AQUI**
+  👉 <a href="https://www.linkedin.com/in/anna-eliza-cardoso-campos-030231363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a>  
+  ou manda um oi por email: annaelizacardosocampos@gmail.com
 
 ---
 
